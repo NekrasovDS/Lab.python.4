@@ -1,3 +1,5 @@
+# Вариант 8. Задание 1.
+
 def get_min_cost(count, full_distance, tank, spot):
     total_cost = 0
     for i in range(count):
